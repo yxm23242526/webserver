@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "grp.h": "c",
+        "fcntl.h": "c",
+        "string.h": "c",
+        "head.h": "c"
     }
 }
