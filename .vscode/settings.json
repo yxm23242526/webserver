@@ -5,5 +5,8 @@
         "fcntl.h": "c",
         "string.h": "c",
         "head.h": "c"
-    }
+    },
+    "C_Cpp.intelliSenseEngineFallback": "enabled", //需要添加的
+    "C_Cpp.intelliSenseEngine": "Tag Parser",  //  需要添加的
+    
 }
